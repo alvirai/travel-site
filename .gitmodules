@@ -1,0 +1,3 @@
+[submodule "travel-site"]
+  path = travel-site
+  url = https://github.com/alvirai/travel-site.git
