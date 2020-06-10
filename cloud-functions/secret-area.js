@@ -3,8 +3,6 @@ exports.handler = function (event, context, callback) {
   <h3>Welcome to the secrete Area</h3>
   <p>Here we can tell you that the sky is <strong>blue</strong></p>
   `
-  
-
   let body
 
   if (event.body) {
